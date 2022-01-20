@@ -138,10 +138,10 @@ width: 600px;
 }
 
 #blue{
-  height: 300px;
-  width: 598px;
+  height: 661px;
   margin-left: -80px;
-  margin-top: -81px;
+  margin-top: -80px;
+  width: 1200px;
 }
 
 #ivoted{
@@ -151,6 +151,10 @@ width: 600px;
   margin-top: -80px;
 }
 
+h2{
+  padding: 30px;
+  background-color: #FF6363;
+}
 
 
 p1{
