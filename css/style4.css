@@ -155,7 +155,8 @@ h1{
   font: helvetica;
   font-size: 30px;
   width: 40px;
-  padding: 10px;
+  margin-top: 40px;
+  padding: 21px;
   background-color: #FF6363;
   width: 700px;
 }
