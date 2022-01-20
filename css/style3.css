@@ -119,10 +119,10 @@ body {
 }
 
 #ivoted{
+  height: 400px;
   width: 600px;
-  margin-top: -79px;
   margin-left: -80px;
-  height: 300px;
+  margin-top: -80px;
 }
 
 
