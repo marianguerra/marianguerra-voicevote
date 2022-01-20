@@ -105,8 +105,8 @@ body {
 .item4 {
   position: relative;
   grid-column: 1/ 3;
-  height: 300px;
-  width: 400px;
+  height: 600px;
+  width: 600px;
 }
 
 #logo{
