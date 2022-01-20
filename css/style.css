@@ -120,9 +120,10 @@ p1{
 }
 
 footer{
-   background-color: #FF6363;
+  background-color: #FF6363;
   position:relative;
-   width:1200px;
+  width:1200px;
+  margin-top: 150px;
   padding: 20px;
   height: 90px;
 
