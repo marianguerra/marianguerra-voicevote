@@ -23,11 +23,6 @@ body {
 
 }
 
-#eye {
-margin-top: -20px;
-margin-left: -30px;
-}
-
 /* Site Navigation */
 .site-nav {
   margin-top: 10px;
@@ -107,9 +102,16 @@ margin-left: -30px;
   height: 300px;
 }
 
-sticker
-{
+#eye{
+  margin-left: -80px;
+  margin-top: -80px;
+}
 
+#sticker{
+  width: 600px;
+  margin-top: -79px;
+  margin-left: -80px;
+  height: 300px;
 }
 
 p1{
