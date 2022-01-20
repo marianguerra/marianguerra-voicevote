@@ -102,6 +102,12 @@ body {
   height: 300px;
 }
 
+.item4 {
+  position: relative;
+  grid-column: 2/ 3;
+  height: 300px;
+}
+
 #logo{
   height: 40px;
 }
