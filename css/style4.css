@@ -132,7 +132,7 @@ width: 600px;
   height: 30px;
 }
 
-#braille{
+#redbraille{
   position: fixed;
   height: 100px;
   height: 360px;
@@ -172,7 +172,7 @@ p1{
 }
 
 footer{
-  background-color: #FF6363;
+  background-color: #2C82EA;
   position: relative;
   width: 1201px;
   margin-top: 753px;
