@@ -156,6 +156,7 @@ width: 600px;
 h1{
   font: helvetica;
   font-size: 30px;
+  font-color: #ffff;
   width: 40px;
   margin-left: -77px;
   margin-top: -79px;
@@ -182,6 +183,7 @@ footer{
 
 p3{
   background-color: #2C82EA;
+  font-color: #0000;
   font-family: helvetica;
   margin-top: -30px;
 }
