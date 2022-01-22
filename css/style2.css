@@ -93,6 +93,8 @@ body {
 
 .item2 {
   position: relative;
+  border-style: solid;
+  border-color: #000;
   grid-column: 1 / 3;
   grid-row: 2 / 4;
   height: 300px;
