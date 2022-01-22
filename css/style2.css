@@ -133,6 +133,8 @@ body {
 
 h1{
   font: helvetica;
+  border-style: solid;
+  border-color: #000;
   font-size: 30px;
   color: #fff;
   width: 40px;
