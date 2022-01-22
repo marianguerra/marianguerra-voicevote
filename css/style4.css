@@ -75,8 +75,9 @@ body {
 /* End Site Navigation */
 
 .box {
+  color: #333;
   border-radius: 1px;
-  background-color: #000;
+  background-color: #ffff;
   padding: 80px;
   font-size:10px;
 }
@@ -132,7 +133,7 @@ body {
 position: relative;
 border-style: solid;
 border-color: #000;
-grid-column: 3 / 5;
+grid-column: 3 / 5
 grid-row: 4 / 4;
 height: 450px;
 width: 600px;
