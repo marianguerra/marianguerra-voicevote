@@ -82,6 +82,7 @@ body {
 
 .item1 {
   position: relative;
+  border-color: #0000;
   grid-column: 1 / 5;
   width:1200px;
   height:500px;
