@@ -149,10 +149,17 @@ body {
   margin-top: -80px;
 }
 
-
+h1{
+  background-color: #2C82EA;
+  font: Helvetica;
+  margin-left: -80px;
+  margin-top: -80px;
+  padding: 21px;
+  background-color: #FF6363;
+  width: 598px;
+}
 
 p1{
-  background-color: #2C82EA;
   Color: #000;
   font-size: 19px;
   font-family: helvetica;
@@ -163,8 +170,8 @@ footer{
   position: relative;
   width: 1203px;
   padding: 20px;
-  margin-top: 652px;
-  margin-left: 396px;
+  margin-top: 655px;
+  margin-left: 6px;
 }
 
 p3{
