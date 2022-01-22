@@ -101,7 +101,7 @@ body {
 .item3 {
   position: relative;
   border-style: solid;
-  border-color: #ffff;
+  border-color: #000;
   grid-column: 3 / 5;
   height: 450px;
 }
