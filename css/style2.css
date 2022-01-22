@@ -75,8 +75,7 @@ body {
 /* End Site Navigation */
 
 .box {
-  background-color: #444;
-  color: #333;
+  background-color: #fff;
   border-radius: 1px;
   padding: 80px;
   font-size:10px;
@@ -84,8 +83,6 @@ body {
 
 .item1 {
   position: relative;
-  border-style: solid;
-  border-color: #000;
   grid-column: 1 / 5;
   width:1200px;
   height:500px;
