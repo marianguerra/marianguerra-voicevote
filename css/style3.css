@@ -151,6 +151,13 @@ body {
   margin-top: -80px;
 }
 
+#researchdots{
+  position: fixed;
+  height: 100px;
+  height: 360px;
+  margin-top: -50px;
+}
+
 h1{
   background-color: #2C82EA;
   font: Helvetica;
