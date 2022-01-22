@@ -83,7 +83,7 @@ body {
 .item1 {
   position: relative;
   border-style: solid;
-  border-color: #0000;
+  border-color: #ffff;
   grid-column: 1 / 5;
   width:1200px;
   height:500px;
