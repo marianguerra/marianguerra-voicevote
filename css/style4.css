@@ -165,6 +165,8 @@ width: 600px;
 }
 
 h1{
+  border-style: solid;
+  border-color: #000;
   font: helvetica;
   font-size: 30px;
   color: #fff;
@@ -194,8 +196,6 @@ footer{
 
 p3{
   background-color: #2C82EA;
-  border-style: solid;
-  border-color: #000;
   color: #ffff;
   font-family: helvetica;
   margin-top: -30px;
