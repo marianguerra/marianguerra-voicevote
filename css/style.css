@@ -85,13 +85,13 @@ body {
 .item1 {
   position: relative;
   grid-column: 1 / 5;
-  border-style: solid;
   width:1200px;
   height:500px;
 }
 
 .item2 {
   position: relative;
+  border-style: solid;
   grid-column: 1 / 3;
   grid-row: 2 / 4;
   height: 300px;
@@ -99,6 +99,7 @@ body {
 
 .item3 {
   position: relative;
+  border-style: solid;
   grid-column: 3 / 5;
   height: 300px;
 }
