@@ -100,8 +100,6 @@ body {
 }
 
 .item3 {
-  border-style: solid;
-  border-color: #000;
   position: relative;
   border-style: solid;
   grid-column: 3 / 5;
