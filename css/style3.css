@@ -70,6 +70,7 @@ body {
 @media screen and (max-width: 767px) {
   .site-nav li {
     width: 50%;
+    font-family: helvetica;
   }
 }
 
