@@ -63,6 +63,7 @@ body {
     margin-right: 5px;
     margin-bottom: 5px;
     text-align: center;
+    font: helvetica;
   }
 }
 
@@ -107,11 +108,11 @@ body {
 
 
 #logo{
-  height: 30px;
+  height: 47px;
 }
 #aboutdots{
   position: fixed;
-  
+
   height: 360px;
   margin-top: -50px;
 }

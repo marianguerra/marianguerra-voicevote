@@ -63,6 +63,7 @@ body {
     margin-right: 5px;
     margin-bottom: 5px;
     text-align: center;
+    font: helvetica;
   }
 }
 
@@ -106,7 +107,7 @@ body {
 }
 
 #logo{
-  height: 40px;
+  height: 47px;
 }
 
 #braille{
