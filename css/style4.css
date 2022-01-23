@@ -170,6 +170,7 @@ h1{
   border-style: solid;
   border-color: #000;
   font-family: helvetica;
+  opacity: 58%;
   font-size: 30px;
   color: #fff;
   margin-left: -82px;
@@ -177,7 +178,6 @@ h1{
   padding: 21px;
   background-color: #FF6363;
   width: 598px;
-  opacity: 58%;
 }
 
 
