@@ -111,6 +111,7 @@ body {
 }
 #aboutdots{
   position: fixed;
+  
   height: 360px;
   margin-top: -50px;
 }
