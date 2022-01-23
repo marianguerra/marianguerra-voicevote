@@ -37,6 +37,7 @@ body {
   list-style: none;
   float: left;
   margin-right: 5px;
+  font-family: helvetica;
 }
 
 .site-nav a {
